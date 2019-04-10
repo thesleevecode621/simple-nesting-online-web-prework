@@ -16,7 +16,8 @@ def hopper
         }
      }
 
-puts :grace_hopper[]
+puts :grace_hopper[:known_for]
+puts
 end
 
 def alan_kay_is_known_for
